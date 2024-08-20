@@ -2,7 +2,7 @@
 
 ## Module 1: Introduction to Excel
 
-- [ ] Introduction to Excel interface
+- [x] Introduction to Excel interface
 - [ ] Understanding rows and columns, Naming Cells
 - [ ] Working with Excel workbook and sheets
 
